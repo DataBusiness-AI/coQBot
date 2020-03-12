@@ -9,3 +9,4 @@ coqbot est une application mobile dotée d'une intelligence artificielle qui ass
 
 Elle contient un bot de question-réponse sur l'élevage des volailles, ainsi que les bonnes pratiques. Ce bot a été entrainé et valide sur des centaines de documents de l'élevage et sur de nombreux référence web de l'élevage. Les réponses ont été ensuite valide par des experts vétérinaire partenaire de DataBusiness-AI. 
 
+La deuxième fonctionnalité de coqbot est la classification des maladies des volailles à travers leurs excrément. En se basant sur un modèle préformé de Tensoflow, elle d'identifier plus de huit (8) maladies de volailles les plus fréquentes ce qui permets aux éleveurs de cadrés le traitement.
