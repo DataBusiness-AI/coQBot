@@ -1,3 +1,4 @@
+![](https://github.com/armelsoubeiga/WaxClassification/blob/master/bg.PNG)
 # coQBot
 
 
