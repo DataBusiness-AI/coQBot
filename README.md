@@ -1,4 +1,5 @@
-![](https://github.com/DataBusiness-AI/coQBot/blob/master/coqbot.png=1000x500)
+![](https://github.com/DataBusiness-AI/coQBot/blob/master/coqbot.png)
+<img src="https://github.com/DataBusiness-AI/coQBot/blob/master/coqbot.png"  width="500" height="120">
 
 
 # coQBot
