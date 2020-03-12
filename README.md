@@ -1,5 +1,5 @@
 
-<img src="https://github.com/DataBusiness-AI/coQBot/blob/master/coqbot.png"  width="1000" height="500">
+<img src="https://github.com/DataBusiness-AI/coQBot/blob/master/coqbot.png"  width="800" height="300">
 
 
 # coQBot
