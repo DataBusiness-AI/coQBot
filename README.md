@@ -1,4 +1,6 @@
-![](https://github.com/armelsoubeiga/WaxClassification/blob/master/bg.PNG)
+![](https://github.com/DataBusiness-AI/coQBot/blob/master/coqbot.png)
+
+
 # coQBot
 
 
